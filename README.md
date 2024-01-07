@@ -1,4 +1,4 @@
-DeepPCD: Enabling AutoCompletion of Indoor Point Clouds with Deep Learning
+# DeepPCD: Enabling AutoCompletion of Indoor Point Clouds with Deep Learning
 
 ##### The code is tested on nvidia gpus with cuda support.
 ## to check your gpu 
