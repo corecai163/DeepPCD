@@ -1,0 +1,18 @@
+#argparse
+#easydict
+matplotlib
+numpy
+open3d
+#opencv-python
+#pprint
+scipy
+tensorboardX==1.2
+torch==1.8.0
+#transforms3d
+ml_collections
+tqdm
+torch-scatter -f https://pytorch-geometric.com/whl/torch-1.8.0+cu111.html
+torch-sparse -f https://pytorch-geometric.com/whl/torch-1.8.0+cu111.html
+torch-cluster -f https://pytorch-geometric.com/whl/torch-1.8.0+cu111.html
+torch-spline-conv -f https://pytorch-geometric.com/whl/torch-1.8.0+cu111.html
+torch-geometric
